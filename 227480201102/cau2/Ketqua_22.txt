@@ -1,0 +1,4 @@
+2/- KẾT QUẢ KIỂM THỬ STORE PROCEDURE
+- Đúng: Tìm thấy SV SV02 điểm cao nhất.
+- Sai lớp: PASS (Không có dữ liệu)
+- Trùng điểm: PASS (Tìm thấy 2 SV cùng điểm cao nhất).

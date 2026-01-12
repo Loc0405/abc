@@ -1,0 +1,2 @@
+1/- KẾT QUẢ KIỂM TRA TRÙNG MÃ SV
+PASS: Đã bắt được lỗi trùng mã SV thành công.
